@@ -1634,11 +1634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegrador\\ProyectoIntegrador\\ProyectoIntegrador.csproj",
+      "projectUniqueName": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegradorInstituto\\ProyectoIntegrador\\ProyectoIntegrador.csproj",
       "projectName": "ProyectoIntegrador",
-      "projectPath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegrador\\ProyectoIntegrador\\ProyectoIntegrador.csproj",
+      "projectPath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegradorInstituto\\ProyectoIntegrador\\ProyectoIntegrador.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegrador\\ProyectoIntegrador\\obj\\",
+      "outputPath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegradorInstituto\\ProyectoIntegrador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

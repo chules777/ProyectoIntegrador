@@ -25,8 +25,18 @@ namespace ProyectoIntegrador
             tablaLogin = dato.Log_Usu(txtUsuario.Text, txtPass.Text);
             if (tablaLogin.Rows.Count > 0)
             {
+
                 // quiere decir que el resultado tiene 1 fila por lo que el usuario EXISTE
-                MessageBox.Show("Ingreso exitoso");
+                MessageBox.Show("Ingreso exitoso", "MENSAJES DEL SISTEMA",
+                MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                frmPrincipal Principal = new frmPrincipal();
+
+                Principal.rol = Convert.ToString(tablaLogin.Rows[0][0]);
+                Principal.usuario = Convert.ToString(txtUsuario.Text);
+
+                Principal.Show();
+                this.Hide();
             }
             else
             {

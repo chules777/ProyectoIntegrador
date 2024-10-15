@@ -17,11 +17,11 @@ namespace ProyectoIntegrador.Datos
         private static Conexion? con = null;
         private Conexion() // asignamos valores a las variables de la conexion
         {
-            this.baseDatos = "Instituto";
+            this.baseDatos = "ClubDeportivo";
             this.servidor = "localhost";
             this.puerto = "3306";
             this.usuario = "root";
-            this.clave = "";
+            this.clave = "Equipo5poo";
         }
         // proceso de interacción
         public MySqlConnection CrearConcexion()
