@@ -16,6 +16,8 @@ namespace ProyectoIntegrador
 
             cbGenero.Items.Add("Masculino");
             cbGenero.Items.Add("Femenino");
+
+            cbGenero.SelectedIndex = 0;
         }
 
         private void btnEnviar_Click(object sender, EventArgs e)

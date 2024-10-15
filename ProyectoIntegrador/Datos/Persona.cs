@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ProyectoIntegrador.Datos
 {
-    public class Persona
+     class Persona
     {
         private string nombre;
         private string apellido;

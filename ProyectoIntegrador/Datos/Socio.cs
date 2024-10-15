@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ProyectoIntegrador.Datos
 {
-    public class Socio : Persona
+    class Socio : Persona
     {
         private int nroSocio;
 

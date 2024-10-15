@@ -132,3 +132,5 @@ D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ProyectoIntegradorInstitut
 D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ProyectoIntegradorInstituto\ProyectoIntegrador\obj\Debug\netcoreapp3.1\ProyectoIntegrador.genruntimeconfig.cache
 D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ProyectoIntegradorInstituto\ProyectoIntegrador\obj\Debug\netcoreapp3.1\ProyectoIntegrador.frmPrincipal.resources
 D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ProyectoIntegradorInstituto\ProyectoIntegrador\obj\Debug\netcoreapp3.1\ProyectoIntegrador.AltaSocio.resources
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp3.1\ProyectoIntegrador.AltaSocio.resources
+D:\MIS COSAS\Escritorio\IFTS 29 2do Cuatrimestre\DSOB\ProyectoIntegrador\ProyectoIntegrador\obj\Debug\netcoreapp3.1\ProyectoIntegrador.frmPrincipal.resources

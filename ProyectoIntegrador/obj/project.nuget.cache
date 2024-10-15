@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpZWKi5car6k41MZfEyOhrF1EUlbzEfVlqMudJbxJXcfnX4w2FTUCnJFrl9HTc0kMRZ2be0jvHrG4Y0QN1gLEA==",
+  "dgSpecHash": "NaLV2UU4q/ZNMMiIIMyHqH3AUuaLjW+H3H+oWtU4T+YVJxApFmrZ4X6yu59fnycUO092aafI6T3cbbLcRg38pQ==",
   "success": true,
-  "projectFilePath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegradorInstituto\\ProyectoIntegrador\\ProyectoIntegrador.csproj",
+  "projectFilePath": "D:\\MIS COSAS\\Escritorio\\IFTS 29 2do Cuatrimestre\\DSOB\\ProyectoIntegrador\\ProyectoIntegrador\\ProyectoIntegrador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
